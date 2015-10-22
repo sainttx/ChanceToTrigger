@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <name>ChanceToTrigger</name>
-    <description>Provides a command that has a chance to trigger</description>
+    <description>Provides a minecraft command that has a chance to trigger another command</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
