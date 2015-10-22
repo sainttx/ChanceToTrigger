@@ -1,0 +1,14 @@
+name: ${project.name}
+main: com.sainttx.chancetotrigger.ChancePlugin
+version: ${project.version}
+description: ${project.description}
+authors: [ SainttX ]
+
+commands:
+  chance:
+    description: "Runs a command if a certain probability is met"
+    permission: "chancetotrigger.use"
+    permission-message: "You do not have permission to use this command"
+    usage: |
+           Runs a command if a certain probability is met
+           /<command> <chance> <execution ...>
